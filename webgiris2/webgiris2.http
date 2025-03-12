@@ -1,0 +1,6 @@
+@webgiris2_HostAddress = http://localhost:5255
+
+GET {{webgiris2_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
