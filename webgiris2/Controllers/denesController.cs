@@ -91,7 +91,7 @@ namespace webgiris2.Controllers
             }
         }
         [HttpDelete("{id:int}")]
-        public ActionResult DeleteOneBook([FromRoute] int id)
+        public ActionResult DeleteOnePerson([FromRoute] int id)
         {
 
             try
